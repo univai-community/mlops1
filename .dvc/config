@@ -1,4 +1,5 @@
 [core]
     autostage = true
+    remote = warehouse
 ['remote "warehouse"']
     url = /Users/rahul/mywarehouse
